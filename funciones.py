@@ -22,7 +22,7 @@ saludar('Brayan')
 promedio = media(15, 18, 11)
 print(f'{promedio:.2f}')
 
-# se toma el valor de dentro de la función como prioridad
+# se toma el valor que esta dentro de la función como prioridad
 scope_alcanze()
 var = 2
 scope_alcanze()
