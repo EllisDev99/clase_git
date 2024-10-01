@@ -1,2 +1,11 @@
-#Vamos a ignorar el ejecutable de Rustc
+# Vamos a ignorar el ejecutable de Rustc
 main
+
+# ignora todos los archivos .txt
+*.txt
+
+# con excepción de 
+!readme.txt
+
+# ignora todos los archivos dentro de un directorio
+fotos/
