@@ -1,3 +1,3 @@
 fn main() {
-    println!("¡Hola, mundo!\neste es mi primer print.");
+    println!("¡Hola, mundo!\nEste es mi primer print.\nEstoy estudiando RUST");
 }
